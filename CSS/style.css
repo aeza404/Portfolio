@@ -8,10 +8,12 @@ li {
 
 li a {
     text-decoration: none;
-    color: tomato;
+    color: orange;
 }
 
 li :hover {
     background-color: yellow;
 }
+
+
 
